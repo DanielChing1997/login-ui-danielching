@@ -11,6 +11,10 @@
     border: 1px solid black;
     margin: auto;
     margin-top: 50px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    border-radius: 20px;
+    padding: 15px;
+    
 }
 .form{
     display:flex;
